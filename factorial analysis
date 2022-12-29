@@ -1,3 +1,5 @@
+Aqui temos uma demonstração de análise fatorial por componentes principais de um arquivo de uma instituição financeira
+
 pacotes <- c("plotly", "tidyverse", "ggrepel", "knitr", "kableExtra", "reshape2", "PerformanceAnalytics", "psych", "ltm", "Hmisc", "readxl")
 Passo Inicial -> Input dos Dados e Visualizações Superficiais
 •	Carregamento da base de dados:
